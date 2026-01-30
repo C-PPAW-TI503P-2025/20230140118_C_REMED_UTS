@@ -35,7 +35,7 @@ DB_PASS=password_mysql_anda
 DB_HOST=127.0.0.1
 DB_DIALECT=mysql
 PORT=3000
-
+```
 ### 3. Menjalankan Aplikasi (Scripts)
 Proyek ini mendukung dua metode pemanggilan server melalui **NPM Scripts** yang telah dikonfigurasi di `package.json`:
 
